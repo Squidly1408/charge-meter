@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.png" alt="Charge Meter" width="100%"></p>
 
-<p align="center">![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)</p>
+<p align="center"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></p>
 
 A Flutter app that shows how fast and how strongly a cable or charger is charging your phone.
 
